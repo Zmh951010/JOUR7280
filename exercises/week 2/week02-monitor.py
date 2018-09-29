@@ -1,0 +1,2 @@
+article="The chief executive of Chinese online retailer JD.com, Liu Qiangdong, was briefly arrested in the US on accusations of criminal sexual conduct.\n Mr Liu, one of China's richest people, was arrested in Minneapolis shortly before midnight on Friday and released on Saturday afternoon.\n JD.com said Mr Liu, also known as Richard Liu, was falsely accused. Police say the investigation is open.\n JD.com, also known as Jingdong, has alliances with Tencent and Walmart."
+print(article.find('JD.com'))
